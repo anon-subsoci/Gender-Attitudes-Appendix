@@ -187,35 +187,44 @@ Interactive data and charts made available [here](./demonstratives/Gender_Attitu
 
 
 ##### a. Mean Abortion Attitudes by Race  
-![Abortion_Att_R](./assets/mean_abortion_attitudes_race.png)  
+<img width="506" height="254" alt="image" src="https://github.com/user-attachments/assets/14f32130-40ab-429f-8c50-09bad6ae41de" />
+
+
 
 
 ##### b. Standard Deviation of Abortion Attitudes by Race  
-![SD_Abortion_Att_R](./assets/sd_abortion_attitudes_race.png)  
+<img width="511" height="254" alt="image" src="https://github.com/user-attachments/assets/a926c5f7-72dc-42b0-b511-b6c447920626" />
+
 
 
 ##### c. Mean Sexual Behavior Attitudes by Race  
-![Sexatt_Att_R](./assets/mean_sexual_behavior_attitudes_race.png)  
+<img width="506" height="254" alt="image" src="https://github.com/user-attachments/assets/47ef6965-a34e-4952-bbaf-5005d9f75d2c" />
+
 
 
 ##### d. Standard Deviation of Sexual Behavior Attitudes by Race  
-![SD_Sexatt_Att_R](./assets/sd_sexual_behavior_attitudes_race.png)  
+<img width="511" height="254" alt="image" src="https://github.com/user-attachments/assets/86245ab6-e0f2-4f85-a396-dbeabbf97ee4" />
+
 
 
 ##### e. Mean Gender Role Attitudes by Race  
-![Genrole_Att_R](./assets/mean_gender_role_attitudes_race.png)  
+<img width="501" height="254" alt="image" src="https://github.com/user-attachments/assets/373dc4ad-c153-4d29-94d7-f5f8743a735d" />  
+
 
 
 ##### f. Standard Deviation of Gender Role Attitudes by Race  
-![SD_Genrole_Att_R](./assets/sd_gender_role_attitudes_race.png)    
+<img width="506" height="254" alt="image" src="https://github.com/user-attachments/assets/98147e95-76a6-40ee-b88f-e9fdb7514097" />
+ 
 
 
 ##### g. Mean Family Responsibilities Attitudes by Race  
-![Famresp_Att_R](./assets/mean_family_responsibilities_attitudes_race.png)  
+<img width="495" height="254" alt="image" src="https://github.com/user-attachments/assets/533d2d67-9021-4cb4-80e1-44c1070cca69" />
+
 
 
 ##### h. Standard Deviation of Family Responsibilities Attitudes by Race  
-![SD_Famresp_Att_R](./assets/sd_family_responsibilities_attitudes_race.png)  
+<img width="511" height="254" alt="image" src="https://github.com/user-attachments/assets/58b65cad-0fd7-4856-9212-abb1e917234f" />
+  
 
 <hr>
 
