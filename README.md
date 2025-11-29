@@ -264,9 +264,9 @@ Now I'm going to read several more statements. As I read each one, please tell m
 
 #### 5. Independent Variable Coding
 
-1. Religions are into 5 categories: Catholic, Jewish, Baptist/Conservative Protestant Sects, None/Other, and Mainline Protestants (Comparison Category).  
+1. Religions are coded into 5 categories: Catholic, Jewish, Baptist/Conservative Protestant Sects, None/Other, and Mainline Protestants (Comparison Category).  
 
-2. Race sample sizes and comparability with prior studies led us to code race into two groups: White and All Other (Comparison Category).
+2. Race, reflecting limitations of the GSS data, is coded into three groups: Black, White (Comparison Category), and All Other.
 
 3. Following Eric Plutzer (1988), regions are coded into 3 categories: South, Midwest, and North/West (Comparison Category).
 
