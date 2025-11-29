@@ -346,7 +346,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | ------------------------- | --------- | --------- | --------- | ------- | ----- |
 | Abortion Attitudes        | 6.435131  | 3.314265  | 0         | 10      | 6425  |
 | Age                       | 43.41366  | 16.79794  | 18        | 89      | 6411  |
-| White                     | 0.8838911 | 0.3203805 | 0         | 1       | 6425  |
+| Black | 0.0912062 | 0.2879246 | 0 | 1 | 6425 |
+| Other | 0.0249027 | 0.1558408 | 0 | 1 | 6425 |
 | Political identification  | 4.112406  | 1.363037  | 1         | 7       | 6094  |
 | Religious attendance      | 3.478663  | 2.616637  | 0         | 8       | 6374  |
 | Catholic                  | 0.2501167 | 0.4331138 | 0         | 1       | 6425  |
@@ -374,7 +375,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | ------------------------- | --------- | --------- | --------- | -------- | ----- |
 | Abortion Attitudes        | 6.376945  | 3.445337  | 0         | 10       | 4040  |
 | Age                       | 44.40431  | 16.38776  | 18        | 89       | 4034  |
-| White                     | 0.8373762 | 0.3690677 | 0         | 1        | 4040  |
+| Black | 0.1071782 | 0.309378  | 0 | 1 | 4040 |
+| Other | 0.0554455 | 0.2288762 | 0 | 1 | 4040 |
 | Political identification  | 4.180102  | 1.411762  | 1         | 7        | 3920  |
 | Religious attendance      | 3.261515  | 2.627288  | 0         | 8        | 3973  |
 | Catholic                  | 0.2507426 | 0.4334942 | 0         | 1        | 4040  |
@@ -402,7 +404,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | ------------------------- | --------- | --------- | --------- | -------- | ----- |
 | Abortion Attitudes        | 6.326747  | 3.509191  | 0         | 10       | 4714  |
 | Age                       | 47.18738  | 16.91921  | 18        | 89       | 4707  |
-| White                     | 0.7638948 | 0.4247326 | 0         | 1        | 4714  |
+| Black | 0.1262198 | 0.3321321 | 0 | 1 | 4714 |
+| Other | 0.1098854 | 0.3127801 | 0 | 1 | 4714 |
 | Political identification  | 4.112082  | 1.477801  | 1         | 7        | 4577  |
 | Religious attendance      | 3.049362  | 2.723029  | 0         | 8        | 4700  |
 | Catholic                  | 0.2269835 | 0.4189262 | 0         | 1        | 4714  |
@@ -430,7 +433,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | ------------------------- | --------- | --------- | --------- | -------- | ----- |
 | Abortion Attitudes        | 6.136864  | 3.431086  | 0         | 10       | 8367  |
 | Age                       | 44.81672  | 17.86792  | 18        | 89       | 8326  |
-| White                     | 0.850484  | 0.3566176 | 0         | 1        | 8367  |
+| Black | 0.1246564 | 0.3303486 | 0 | 1 | 8367 |
+| Other | 0.0248596 | 0.1557063 | 0 | 1 | 8367 |
 | Political identification  | 4.056168  | 1.294756  | 1         | 7        | 7531  |
 | Religious attendance      | 4.242421  | 2.659258  | 0         | 8        | 8312  |
 | Catholic                  | 0.2531373 | 0.4348349 | 0         | 1        | 8367  |
@@ -458,7 +462,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | ------------------------- | --------- | --------- | --------- | -------- | ----- |
 | Abortion Attitudes        | 6.167569  | 3.568776  | 0         | 10       | 4989  |
 | Age                       | 45.57045  | 17.07912  | 18        | 89       | 4975  |
-| White                     | 0.792744  | 0.4053811 | 0         | 1        | 4989  |
+| Black | 0.1537382 | 0.3607338 | 0 | 1 | 4989 |
+| Other | 0.0535177 | 0.2250861 | 0 | 1 | 4989 |
 | Political identification  | 4.040311  | 1.383003  | 1         | 7        | 4763  |
 | Religious attendance      | 3.912202  | 2.736274  | 0         | 8        | 4909  |
 | Catholic                  | 0.2341151 | 0.4234869 | 0         | 1        | 4989  |
@@ -486,7 +491,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | ------------------------- | --------- | --------- | --------- | -------- | ----- |
 | Abortion Attitudes        | 6.016628  | 3.668711  | 0         | 10       | 5722  |
 | Age                       | 47.89598  | 17.47663  | 18        | 89       | 5701  |
-| White                     | 0.7408249 | 0.4382202 | 0         | 1        | 5722  |
+| Black | 0.1653268 | 0.3715077 | 0 | 1 | 5722 |
+| Other | 0.0938483 | 0.291643  | 0 | 1 | 5722 |
 | Political identification  | 3.998555  | 1.451653  | 1         | 7        | 5537  |
 | Religious attendance      | 3.700579  | 2.818918  | 0         | 8        | 5701  |
 | Catholic                  | 0.2261447 | 0.4183705 | 0         | 1        | 5722  |
@@ -515,7 +521,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | -------------------------- | --------- | --------- | -------- | ------- | ----- |
 | Sexual Behaviors Attitudes | 4.161333  | 1.295407  | 0        | 10      | 11741 |
 | Age                        | 44.15765  | 17.2648   | 18       | 89      | 11716 |
-| White                      | 0.878886  | 0.3262737 | 0        | 1       | 11741 |
+| Black | 0.0982029 | 0.2976014 | 0 | 1 | 11741 |
+| Other | 0.0229112 | 0.1496267 | 0 | 1 | 11741 |
 | Political identification   | 4.114258  | 1.367272  | 1        | 7       | 10485 |
 | Religious attendance       | 3.552058  | 2.628422  | 0        | 8       | 11660 |
 | Catholic                   | 0.2476791 | 0.4316828 | 0        | 1       | 11741 |
@@ -543,7 +550,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | -------------------------- | --------- | --------- | --------- | -------- | ----- |
 | Sexual Behaviors Attitudes | 4.241189  | 1.207472  | 0         | 10       | 6968  |
 | Age                        | 44.77861  | 16.50827  | 18        | 89       | 6956  |
-| White                      | 0.8293628 | 0.3762186 | 0         | 1        | 6968  |
+| Black | 0.1097876 | 0.3126473 | 0 | 1 | 6968 |
+| Other | 0.0608496 | 0.2390714 | 0 | 1 | 6968 |
 | Political identification   | 4.220669  | 1.402732  | 1         | 7        | 6725  |
 | Religious attendance       | 3.292562  | 2.658325  | 0         | 8        | 6843  |
 | Catholic                   | 0.2474168 | 0.4315419 | 0         | 1        | 6968  |
@@ -571,7 +579,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | -------------------------- | --------- | --------- | --------- | -------- | ----- |
 | Sexual Behaviors Attitudes | 4.474268  | 1.205449  | 0.904471  | 10       | 8067  |
 | Age                        | 47.72763  | 17.19672  | 18        | 89       | 8048  |
-| White                      | 0.7605058 | 0.4268013 | 0         | 1        | 8067  |
+| Black | 0.1300359 | 0.3363638 | 0 | 1 | 8067 |
+| Other | 0.1094583 | 0.3122327 | 0 | 1 | 8067 |
 | Political identification   | 4.156948  | 1.464379  | 1         | 7        | 7786  |
 | Religious attendance       | 3.083748  | 2.744835  | 0         | 8        | 8036  |
 | Catholic                   | 0.2294533 | 0.4205073 | 0         | 1        | 8067  |
@@ -599,7 +608,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | -------------------------- | --------- | --------- | --------- | -------- | ----- |
 | Sexual Behaviors Attitudes | 3.958254  | 1.235124  | 0         | 10       | 15162 |
 | Age                        | 45.5894   | 18.03522  | 18        | 89       | 15090 |
-| White                      | 0.85556   | 0.351547  | 0         | 1        | 15162 |
+| Black | 0.1217517 | 0.3270097 | 0 | 1 | 15162 |
+| Other | 0.0226883 | 0.1489127 | 0 | 1 | 15162 |
 | Political identification   | 4.078258  | 1.279613  | 1         | 7        | 12970 |
 | Religious attendance       | 4.308907  | 2.662699  | 0         | 8        | 15066 |
 | Catholic                   | 0.2536605 | 0.4351199 | 0         | 1        | 15162 |
@@ -627,7 +637,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | -------------------------- | --------- | --------- | --------- | -------- | ----- |
 | Sexual Behaviors Attitudes | 4.101034  | 1.144385  | 0         | 10       | 8832  |
 | Age                        | 46.46224  | 17.60628  | 18        | 89       | 8805  |
-| White                      | 0.7900815 | 0.4072732 | 0         | 1        | 8832  |
+| Black | 0.1561368 | 0.3630055 | 0 | 1 | 8832 |
+| Other | 0.0537817 | 0.2255992 | 0 | 1 | 8832 |
 | Political identification   | 4.090562  | 1.371647  | 1         | 7        | 8381  |
 | Religious attendance       | 4.009696  | 2.720939  | 0         | 8        | 8663  |
 | Catholic                   | 0.2385643 | 0.4262299 | 0         | 1        | 8832  |
@@ -655,7 +666,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | -------------------------- | --------- | --------- | -------- | -------- | ----- |
 | Sexual Behaviors Attitudes | 4.371482  | 1.154413  | 1.611586 | 8.338922 | 10003 |
 | Age                        | 48.44582  | 17.82132  | 18       | 89       | 9966  |
-| White                      | 0.7348795 | 0.4414194 | 0        | 1        | 10003 |
+| Black | 0.1668499 | 0.3728605 | 0 | 1 | 10003 |
+| Other | 0.0982705 | 0.297695  | 0 | 1 | 10003 |
 | Political identification   | 4.047574  | 1.440446  | 1        | 7        | 9606  |
 | Religious attendance       | 3.738423  | 2.824924  | 0        | 8        | 9955  |
 | Catholic                   | 0.2336299 | 0.4231606 | 0        | 1        | 10003 |
@@ -683,7 +695,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | ------------------------------------ | --------- | --------- | -------- | -------- | ----- |
 | Public Sphere Gender Roles Attitudes | 6.233626  | 4.845801  | 0        | 10       | 6489  |
 | Age                                  | 44.06253  | 17.02362  | 18       | 89       | 6477  |
-| White                                | 0.8801048 | 0.324864  | 0        | 1        | 6489  |
+| Black | 0.0977038 | 0.2969366 | 0 | 1 | 6489 |
+| Other | 0.0221914 | 0.147317  | 0 | 1 | 6489 |
 | Political identification             | 4.110075  | 1.36602   | 1        | 7        | 6114  |
 | Religious attendance                 | 3.527222  | 2.651695  | 0        | 8        | 6447  |
 | Catholic                             | 0.2519649 | 0.4341746 | 0        | 1        | 6489  |
@@ -711,7 +724,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | ------------------------------------ | --------- | --------- | --------- | -------- | ----- |
 | Public Sphere Gender Roles Attitudes | 7.648591  | 4.241371  | 0         | 10       | 4223  |
 | Age                                  | 44.49324  | 16.27336  | 18        | 89       | 4213  |
-| White                                | 0.8278475 | 0.3775576 | 0         | 1        | 4223  |
+| Black | 0.1112953 | 0.3145347 | 0 | 1 | 4223 |
+| Other | 0.0608572 | 0.2390965 | 0 | 1 | 4223 |
 | Political identification             | 4.196833  | 1.418425  | 1         | 7        | 4105  |
 | Religious attendance                 | 3.290027  | 2.656442  | 0         | 8        | 4141  |
 | Catholic                             | 0.2424816 | 0.4286348 | 0         | 1        | 4223  |
@@ -739,7 +753,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | ------------------------------------ | --------- | --------- | --------- | -------- | ----- |
 | Public Sphere Gender Roles Attitudes | 7.845787  | 4.111552  | 0         | 10       | 5032  |
 | Age                                  | 47.90472  | 17.16132  | 18        | 89       | 5017  |
-| White                                | 0.7643084 | 0.4244725 | 0         | 1        | 5032  |
+| Black | 0.1275835 | 0.3336586 | 0 | 1 | 5032 |
+| Other | 0.1081081 | 0.3105478 | 0 | 1 | 5032 |
 | Political identification             | 4.164344  | 1.471614  | 1         | 7        | 4880  |
 | Religious attendance                 | 3.08993   | 2.756884  | 0         | 8        | 5015  |
 | Catholic                             | 0.2315183 | 0.4218447 | 0         | 1        | 5032  |
@@ -767,7 +782,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | ------------------------------------ | --------- | --------- | --------- | -------- | ----- |
 | Public Sphere Gender Roles Attitudes | 6.243317  | 4.843237  | 0         | 10       | 8417  |
 | Age                                  | 45.50752  | 18.004    | 18        | 89       | 8376  |
-| White                                | 0.857669  | 0.3494101 | 0         | 1        | 8417  |
+| Black | 0.1210645 | 0.3262216 | 0 | 1 | 8417 |
+| Other | 0.0212665 | 0.1442799 | 0 | 1 | 8417 |
 | Political identification             | 4.065487  | 1.281207  | 1         | 7        | 7406  |
 | Religious attendance                 | 4.285373  | 2.673736  | 0         | 8        | 8368  |
 | Catholic                             | 0.2531781 | 0.4348579 | 0         | 1        | 8417  |
@@ -795,7 +811,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | ------------------------------------ | --------- | --------- | --------- | -------- | ----- |
 | Public Sphere Gender Roles Attitudes | 7.841929  | 4.114173  | 0         | 10       | 5681  |
 | Age                                  | 46.21431  | 17.5547   | 18        | 89       | 5660  |
-| White                                | 0.7900018 | 0.4073428 | 0         | 1        | 5681  |
+| Black | 0.1561345 | 0.3630147 | 0 | 1 | 5681 |
+| Other | 0.0538638 | 0.2257685 | 0 | 1 | 5681 |
 | Political identification             | 4.086445  | 1.378069  | 1         | 7        | 5437  |
 | Religious attendance                 | 4.020079  | 2.713957  | 0         | 8        | 5578  |
 | Catholic                             | 0.2448513 | 0.4300368 | 0         | 1        | 5681  |
@@ -823,7 +840,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | ------------------------------------ | --------- | --------- | -------- | -------- | ----- |
 | Public Sphere Gender Roles Attitudes | 8.022184  | 3.983577  | 0        | 10       | 6401  |
 | Age                                  | 48.19389  | 17.74967  | 18       | 89       | 6380  |
-| White                                | 0.734104  | 0.4418436 | 0        | 1        | 6401  |
+| Black | 0.1712232 | 0.3767334 | 0 | 1 | 6401 |
+| Other | 0.0946727 | 0.2927852 | 0 | 1 | 6401 |
 | Political identification             | 4.030538  | 1.438192  | 1        | 7        | 6189  |
 | Religious attendance                 | 3.72489   | 2.82128   | 0        | 8        | 6372  |
 | Catholic                             | 0.2346508 | 0.4238135 | 0        | 1        | 6401  |
@@ -851,7 +869,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | --------------------------------- | --------- | --------- | --------- | -------- | ----- |
 | Family Responsibilities Attitudes | 4.889057  | 2.182934  | 0         | 10       | 3956  |
 | Age                               | 44.04078  | 16.8363   | 18        | 89       | 3948  |
-| White                             | 0.8715875 | 0.3345909 | 0         | 1        | 3956  |
+| Black | 0.0983316 | 0.2978002 | 0 | 1 | 3956 |
+| Other | 0.0300809 | 0.1708315 | 0 | 1 | 3956 |
 | Political identification          | 4.154286  | 1.365076  | 1         | 7        | 3850  |
 | Religious attendance              | 3.54703   | 2.66065   | 0         | 8        | 3923  |
 | Catholic                          | 0.25      | 0.4330674 | 0         | 1        | 3956  |
@@ -879,7 +898,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | --------------------------------- | --------- | --------- | --------- | -------- | ----- |
 | Family Responsibilities Attitudes | 5.259753  | 2.115635  | 0         | 10       | 4500  |
 | Age                               | 44.53216  | 16.36758  | 18        | 89       | 4493  |
-| White                             | 0.8295556 | 0.3760646 | 0         | 1        | 4500  |
+| Black | 0.1106667 | 0.3137538 | 0 | 1 | 4500 |
+| Other | 0.0597778 | 0.237101  | 0 | 1 | 4500 |
 | Political identification          | 4.195508  | 1.413908  | 1         | 7        | 4363  |
 | Religious attendance              | 3.292628  | 2.651999  | 0         | 8        | 4422  |
 | Catholic                          | 0.2446667 | 0.4299372 | 0         | 1        | 4500  |
@@ -907,7 +927,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | --------------------------------- | --------- | --------- | --------- | -------- | ----- |
 | Family Responsibilities Attitudes | 5.739145  | 2.060502  | 0         | 10       | 5223  |
 | Age                               | 47.67422  | 17.10649  | 18        | 89       | 5209  |
-| White                             | 0.7595252 | 0.4274127 | 0         | 1        | 5223  |
+| Black | 0.1294275 | 0.3357047 | 0 | 1 | 5223 |
+| Other | 0.1110473 | 0.3142208 | 0 | 1 | 5223 |
 | Political identification          | 4.170756  | 1.461941  | 1         | 7        | 5054  |
 | Religious attendance              | 3.09877   | 2.75801   | 0         | 8        | 5204  |
 | Catholic                          | 0.2335822 | 0.4231499 | 0         | 1        | 5223  |
@@ -935,7 +956,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | --------------------------------- | --------- | --------- | --------- | ------- | ----- |
 | Family Responsibilities Attitudes | 5.570676  | 2.431197  | 0         | 10      | 5144  |
 | Age                               | 46.10753  | 18.06034  | 18        | 89      | 5124  |
-| White                             | 0.8446734 | 0.362251  | 0         | 1       | 5144  |
+| Black | 0.125     | 0.3307511 | 0 | 1 | 5144 |
+| Other | 0.0303266 | 0.171501  | 0 | 1 | 5144 |
 | Political identification          | 4.080311  | 1.307177  | 1         | 7       | 4881  |
 | Religious attendance              | 4.288623  | 2.682529  | 0         | 8       | 5107  |
 | Catholic                          | 0.2507776 | 0.4335029 | 0         | 1       | 5144  |
@@ -963,7 +985,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | --------------------------------- | --------- | --------- | --------- | -------- | ----- |
 | Family Responsibilities Attitudes | 6.038851  | 2.295218  | 0         | 10       | 5920  |
 | Age                               | 46.09057  | 17.51202  | 18        | 89       | 5896  |
-| White                             | 0.7881757 | 0.4086355 | 0         | 1        | 5920  |
+| Black | 0.1577703 | 0.3645563 | 0 | 1 | 5920 |
+| Other | 0.0540541 | 0.2261434 | 0 | 1 | 5920 |
 | Political identification          | 4.09297   | 1.37292   | 1         | 7        | 5647  |
 | Religious attendance              | 4.022688  | 2.716095  | 0         | 8        | 5818  |
 | Catholic                          | 0.24375   | 0.4293799 | 0         | 1        | 5920  |
@@ -991,7 +1014,8 @@ To view the extended bibliography for this paper, please click [here](https://an
 | --------------------------------- | --------- | --------- | -------- | -------- | ----- |
 | Family Responsibilities Attitudes | 6.49681   | 2.201162  | 0        | 10       | 6548  |
 | Age                               | 48.22583  | 17.795    | 18       | 89       | 6527  |
-| White                             | 0.7318265 | 0.4430423 | 0        | 1        | 6548  |
+| Black | 0.1724191 | 0.3777731 | 0 | 1 | 6548 |
+| Other | 0.0957544 | 0.2942766 | 0 | 1 | 6548 |
 | Political identification          | 4.032493  | 1.436587  | 1        | 7        | 6309  |
 | Religious attendance              | 3.724498  | 2.824334  | 0        | 8        | 6519  |
 | Catholic                          | 0.2339646 | 0.4233822 | 0        | 1        | 6548  |
