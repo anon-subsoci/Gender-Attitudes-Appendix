@@ -10,12 +10,7 @@
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. [Sexual Behavior Attitudes Multivariate Regression](#ii-sexual-behavior-attitudes-multivariate-regression)  
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. [Gender Roles Attitudes Multivariate Regression](#iii-gender-roles-attitudes-multivariate-regression)    
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. [Family Responsibilities Attitudes Multivariate Regression](#iv-family-responsibilities-attitudes-multivariate-regression)    
-	b. [Ordinal Logistic Regression Tables](#b-ordinal-logistic-regression-tables---interactive-tables-made-available-here)  
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. [Abortion Attitudes Ordinal Logistic Regression](#i-abortion-attitudes-ordinal-logistic-regression)  
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. [Sexual Behavior Attitudes Ordinal Logistic Regression](#ii-sexual-behavior-attitudes-ordinal-logistic-regression)  
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. [Gender Roles Attitudes Ordinal Logistic Regression](#iii-gender-roles-attitudes-ordinal-logistic-regression)  
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. [Family Responsibilities Attitudes Ordinal Logistic Regression](#iv-family-responsibilities-attitudes-ordinal-logistic-regression)  
-	c. [Bivariate Regression Tables](#c-bivariate-regression-tables---interactive-tables-made-available-here)  
+	b. [Bivariate Regression Tables](#b-bivariate-regression-tables---interactive-tables-made-available-here)  
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. [Abortion Attitudes Bivariate Regression](#i-abortion-attitudes-bivariate-regression)  
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. [Sexual Behavior Attitudes Bivariate Regression](#ii-sexual-behavior-attitudes-bivariate-regression)  
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. [Gender Roles Attitudes Bivariate Regression](#iii-gender-roles-attitudes-bivariate-regression)  
@@ -82,7 +77,7 @@ add(20)
 
 10. Differences in coefficients across periods or groups were tested using:   
 
-      ![Coefficient_Differences](./assets/coefficient_diff.png)
+      <img width="238" height="74" alt="image" src="https://github.com/user-attachments/assets/0e881a0c-e23e-49d8-ac62-2216e0160827" />
 
 <hr>
 
@@ -106,56 +101,44 @@ Post-Stall: 2004-2018
 ##### a. Multivariate Regression Tables - Interactive tables made available [here](./demonstratives/Multivariate_Regression_Tables.xlsx).  
 
 ###### i. Abortion Attitudes Multivariate Regression  
-![Abortion_Reg](./assets/abortion_multivariate_results.png)  
+<img width="643" height="438" alt="multivariate_abscale" src="https://github.com/user-attachments/assets/5ee7b816-ad06-476c-99ad-4ea09fa59f68" />
 
 
 ###### ii. Sexual Behavior Attitudes Multivariate Regression  
-![Sexatt_Reg](./assets/sexual_attitudes_multivariate_results.png)  
+<img width="642" height="509" alt="multivariate_sexatt" src="https://github.com/user-attachments/assets/9f605667-deb3-45ad-affa-5428f127e1b8" />  
+
 
 
 ###### iii. Gender Roles Attitudes Multivariate Regression  
-![Genrole_Reg](./assets/gender_roles_multivariate_results.png)  
+<img width="642" height="511" alt="multivariate_genrole" src="https://github.com/user-attachments/assets/f33372e3-d752-4e9b-a1bb-1ad4838422a0" />  
+
 
 
 ###### iv. Family Responsibilities Attitudes Multivariate Regression  
-![Famresp_Reg](./assets/family_responsibilities_multivariate_results.png)  
+<img width="642" height="509" alt="multivariate_famresp" src="https://github.com/user-attachments/assets/6eaf4702-821d-4e61-933f-ec5656513bea" />  
 
 
-##### b. Ordinal Logistic Regression Tables - Interactive tables made available [here](./demonstratives/Ordinal_Logistic_Regression_Tables.xlsx).  
-
-###### i. Abortion Attitudes Ordinal Logistic Regression  
-![Abortion_oReg](./assets/abortion_ologit_results.png)  
-
-
-###### ii. Sexual Behavior Attitudes Ordinal Logistic Regression  
-![Sexatt_oReg](./assets/sexual_attitudes_ologit_results.png)  
-
-
-###### iii. Gender Roles Attitudes Ordinal Logistic Regression  
-![Genrole_oReg](./assets/gender_roles_ologit_results.png)  
-
-
-###### iv. Family Responsibilities Attitudes Ordinal Logistic Regression  
-![Famresp_oReg](./assets/family_responsibilities_ologit_results.png)  
-
-
-##### c. Bivariate Regression Tables - Interactive tables made available [here](./demonstratives/Bivariate_Regression_Tables.xlsx).  
+##### b. Bivariate Regression Tables - Interactive tables made available [here](./demonstratives/Bivariate_Regression_Tables.xlsx).  
 
 
 ###### i. Abortion Attitudes Bivariate Regression  
-![Abortion_biReg](./assets/abortion_bivariate_results.png)  
+<img width="642" height="509" alt="bivariate_ologit_abscale" src="https://github.com/user-attachments/assets/03edfeca-bc64-49bc-94d4-a48beec5bfda" />  
+
 
 
 ###### ii. Sexual Behavior Attitudes Bivariate Regression  
-![Sexatt_biReg](./assets/sexual_attitudes_bivariate_results.png)  
+<img width="642" height="509" alt="bivariate_ologit_sexatt" src="https://github.com/user-attachments/assets/b36b6b2c-8d5f-431b-99a2-98ff757c2d6b" />  
+
 
 
 ###### iii. Gender Roles Attitudes Bivariate Regression  
-![Genrole_biReg](./assets/gender_roles_bivariate_results.png)  
+<img width="642" height="509" alt="bivariate_ologit_genrole" src="https://github.com/user-attachments/assets/5d2b8ee1-c35f-4aa5-b678-1ca5901b8031" />  
+
 
 
 ###### iv. Family Responsibilities Attitudes Bivariate Regression  
-![Famresp_biReg](./assets/family_responsibilities_bivariate_results.png)  
+<img width="642" height="509" alt="bivariate_ologit_famresp" src="https://github.com/user-attachments/assets/42a362d9-5dc5-4948-b602-904c048f22d1" />  
+
 
 
 <hr>
